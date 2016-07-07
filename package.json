@@ -8,8 +8,21 @@
     "build": "webpack",
     "lint": "functionhappy | snazzy"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Roilan/react-server-boilerplate"
+  },
+  "keywords": [
+    "react",
+    "react server",
+    "reactjs"
+  ],
   "author": "Roilan <roilan14@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roilan/react-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Roilan/react-server-boilerplate",
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
